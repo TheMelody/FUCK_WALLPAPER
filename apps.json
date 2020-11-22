@@ -1,6 +1,12 @@
 {
   "apps":[
     {
+      "appName": "Edge swipe gesture - Navigation Gestures",
+      "iconUrl": "https://raw.githubusercontent.com/TheMelody/FUCK_WALLPAPER/master/AppIcon/edge_swipe_gesture_lite.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.melody.cool.back",
+      "desc":"Full screen gesture navigation, including edge gestures,<b>IOS latest</b> control center, notification filtering.\nThis is a streamlined version, please download the pro version for more functions."
+    },
+    {
       "appName": "Edge swipe gesture pro",
       "iconUrl": "https://raw.githubusercontent.com/TheMelody/FUCK_WALLPAPER/master/AppIcon/edge_swipe_gesture_pro.png",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.melody.cool.back_pro",
